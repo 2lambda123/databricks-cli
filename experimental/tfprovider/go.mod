@@ -13,7 +13,7 @@ require (
 
 require (
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 )
 
 require (
@@ -21,5 +21,5 @@ require (
 	github.com/hashicorp/hc-install v0.4.0
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/text v0.3.8 // indirect
+	golang.org/x/text v0.14.0 // indirect
 )
